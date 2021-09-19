@@ -1,6 +1,8 @@
 # Olá, Eu sou o Helifaz Rocha! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif width="50">
-... Desenvolvedor web e progamador iniciante  
- (PROCURANDO EMPREGO)
+° Técnico em T.i <br>
+° Desenvolvedor web <br>
+° progamador iniciante  <br>
+° PROCURANDO EMPREGO
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/helifazdev)](https://github.com/helifazdev)
 ##
@@ -14,6 +16,9 @@
   <img align="center" alt="helifazdev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  </div>
  
+ ##
+ 
+ ### Contato: 
  <div style="display: inline_block"><br>
  <a href="https://www.instagram.com/helifaz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:helifazsilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
