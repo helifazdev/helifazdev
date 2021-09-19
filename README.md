@@ -1,7 +1,7 @@
 # Olá, Eu sou o Helifaz Rocha! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif width="50">
 ° Técnico em T.i <br>
 ° Desenvolvedor web <br>
-° progamador iniciante  <br>
+° Progamador iniciante  <br>
 ° PROCURANDO EMPREGO
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/helifazdev)](https://github.com/helifazdev)
