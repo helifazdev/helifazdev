@@ -22,7 +22,7 @@ jobs:
     steps:
  
       - name: generate github-contribution-grid-snake.svg
-        uses: helifazdev/snk@master
+        uses: Platane/snk@master
         with:
           github_user_name: helifazdev
           svg_out_path: dist/github-contribution-grid-snake.svg
