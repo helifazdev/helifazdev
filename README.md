@@ -3,7 +3,6 @@
 ° Técnico em T.i <br>
 ° Desenvolvedor web <br>
 ° Progamador iniciante  <br>
-° PROCURANDO EMPREGO
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/helifazdev)](https://github.com/helifazdev)
 ##
@@ -17,6 +16,9 @@
   <img align="center" alt="helifazdev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  </div>
  
+ <div>
+  <img align="center" alt="helifazdev-HTML" height="30" width="40" src="https://c.tenor.com/DHGvsLhTOowAAAAM/meme-pikachu.gif">
+</div>
  ##
  
  ### Contato: 
