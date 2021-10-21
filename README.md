@@ -16,10 +16,12 @@
   <img align="center" alt="helifazdev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  </div>
  
- <div>
-  <img align="center" alt="helifazdev-HTML" height="30" width="40" src="https://c.tenor.com/DHGvsLhTOowAAAAM/meme-pikachu.gif">
-</div>
  ##
+ 
+ 
+  <div>
+  <img align="center" alt="helifazdev-HTML" height="100" width="100" src="https://c.tenor.com/DHGvsLhTOowAAAAM/meme-pikachu.gif">
+</div>
  
  ### Contato: 
  <div style="display: inline_block"><br>
