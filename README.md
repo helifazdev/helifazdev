@@ -1,14 +1,15 @@
 # Helifaz Rocha <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif width="50">
 ### Tecnico em T.i | Estudante de Ciência da Computação <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif width="20">
 ° Procurando Conhecimento <br>
-° Desenvolvendo web "cada dia mais" <br>
+° Desenvolvendo a web "cada dia mais" <br>
 ° Progamador iniciante-> ou quase isso!!!  <br>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/helifazdev)](https://github.com/helifazdev)
 ##
 ### Principais Linguagens :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helifazdev&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helifazdev&layout=compact)](https://github.com/helifazdev/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helifazdev&hide=contribs,prs)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="helifazdev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
