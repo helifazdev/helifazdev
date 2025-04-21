@@ -1,8 +1,8 @@
 # Helifaz Rocha <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif width="50">
-### Tecnico em T.i | Estudante de Ciência da Computação <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif width="20">
-° Procurando Conhecimento <br>
-° Desenvolvendo a web "cada dia mais" <br>
-° Progamador iniciante-> ou quase isso!!!  <br>
+### Analista de Sistemas 
+° Procurando novidades <br>
+° Desenvolvedor web  <br>
+° Progamador e Analista de sistemas  <br>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/helifazdev)](https://github.com/helifazdev)
 ##
@@ -19,14 +19,7 @@
   <img align="center" alt="helifazdev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  </div>
  
- 
- ##
- 
- 
-  <div>
-  <img align="center" alt="helifazdev-HTML" height="100" width="100" src="https://c.tenor.com/DHGvsLhTOowAAAAM/meme-pikachu.gif">
-</div>
- 
+
  ### Contato: 
  <div style="display: inline_block"><br>
  <a href="https://www.instagram.com/helifaz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
