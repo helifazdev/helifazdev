@@ -6,8 +6,6 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/helifazdev)](https://github.com/helifazdev)
 ##
-### Principais Linguagens :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helifazdev&layout=compact)](https://github.com/helifazdev/github-readme-stats)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helifazdev&hide=contribs,prs) -->
 
