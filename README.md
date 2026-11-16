@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Helifaz Rocha 👋
+# Olá, eu sou o Helifaz Viana 👋
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Bacharel+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Analista+de+Sistemas+%26+Desenvolvedor;Docente+na+%C3%A1rea+de+Desenvolvimento+de+Sistemas;P%C3%B3s-graduando+em+Ci%C3%AAncia+de+Dados+e+IA+na+Sa%C3%BAde;MBA+em+Gest%C3%A3o+de+Projetos+e+Metodologias+%C3%81geis" alt="Typing SVG" />
